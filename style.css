@@ -1,3 +1,11 @@
+html body {
+    margin: 0
+}
+
+#spreadsheet{
+    border: 0
+}
+
 #example {
     background-color: aqua;
     width: 100%;
