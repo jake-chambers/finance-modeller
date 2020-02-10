@@ -1,0 +1,19 @@
+#example {
+    background-color: aqua;
+    width: 100%;
+    overflow: hidden;
+}
+
+#formulas {
+    background-color: rgb(0, 247, 255);
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+/* .ht_master tr:nth-child(2) > td:nth-child(3) {
+    background-color: #F00;
+} */
+
+.handsontableInput {
+    background-color: rgb(214, 214, 214)!important;
+}

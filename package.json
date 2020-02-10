@@ -1,0 +1,22 @@
+{
+  "name": "finance-modeller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jake-chambers/finance-modeller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jake-chambers/finance-modeller/issues"
+  },
+  "homepage": "https://github.com/jake-chambers/finance-modeller#readme",
+  "dependencies": {
+    "handsontable": "^7.3.0"
+  }
+}
