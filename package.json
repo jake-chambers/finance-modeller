@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jake-chambers/finance-modeller#readme",
   "dependencies": {
-    "handsontable": "^7.3.0"
+    "handsontable": "^10.0.0"
   }
 }
